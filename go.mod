@@ -1,4 +1,4 @@
-module github.com/Arjith8/tryingGo.git
+module github.com/Arjith8/tryingGo
 
 go 1.23.5
 

@@ -2,7 +2,7 @@ package greeting
 
 import "fmt"
 
-func help(name string) string{
+func Help(name string) string{
     message := fmt.Sprintf("edeudheue %v", name);
     return message
 }
